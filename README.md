@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://jocular-florentine-b17db0.netlify.app/]((https://porfolio-niranjan.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://porfolio-niranjan.vercel.app/](https://porfolio-niranjan.vercel.app/)
 
 - 💬 Ask me about **React Js, Sql,**
 
